@@ -1,51 +1,84 @@
-# Luxury Housing Sales Analysis – Bengaluru
+#  Bangalore Luxury Housing Market Analysis
 
-Project Status: In Progress
+#  Project Overview
 
-## Project Overview
-This project analyzes luxury housing sales data in Bengaluru using Python, SQL, and Power BI to uncover market insights and trends.This project demonstrates a complete real-world data analytics pipeline using a large Bengaluru housing dataset. The workflow includes data cleaning and preprocessing in Python, structured storage in SQL, and interactive visualization in Power BI to analyze market trends, locality performance, and customer behavior.
+This project analyzes the Luxury Housing Market in Bangalore using Power BI to identify market trends, builder performance, buyer behavior, and project-level insights.
 
-## Objectives
-- Clean and preprocess raw CSV data
-- Perform exploratory data analysis
-- Store processed data in SQL database
-- Analyze data using SQL queries
-- Build interactive Power BI dashboard
+The dashboard provides a data-driven view of real estate demand, helping stakeholders understand factors influencing bookings, pricing, and project success.
 
-## Tech Stack
-- Python (Pandas, NumPy)
-- MySQL
-- Power BI
-- Google Colab
-- GitHub
+#  Objectives
 
-## Skills Demonstrated
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- SQL Data Handling
-- Dashboard Development
-- Data Visualization & Storytelling
-- Business Insight Generation
+Analyze booking trends across quarters
 
-## Technical Tags
-Python | SQL | ETL | Data Pipeline | Data Cleaning | Power BI | Real Estate Analytics | Feature Engineering | Business Intelligence
+Identify high-demand micro-markets
 
-## Project Workflow
-1. Load CSV dataset
-2. Data Cleaning using Python
-3. Data Transformation
-4. Store cleaned data in SQL
-5. Query data using SQL
-6. Visualize insights in Power BI
+Evaluate builder performance and revenue contribution
 
-## Key Insights
-Insights will be updated after data analysis is completed.
+Understand buyer preferences
 
-## Files Included
-- Cleaning Script
-- SQL Queries
-- Dashboard File
-- Final Report
+Study the impact of amenities on booking demand
 
-## Author
+#  Tools Used
+
+Power BI
+
+SQL
+
+PostgreSQL
+
+DAX
+
+Dashboard Pages
+
+#  Page 1 – Market Overview
+
+Total Revenue
+
+Total Bookings
+
+Average Price per Sqft
+
+Conversion Rate
+
+#  Page 2 – Market Trends
+
+Booking trend by quarter
+
+Configuration demand
+
+Micro-market insights
+
+Sales channel performance
+
+#  Page 3 – Builder Performance
+
+Revenue by builders
+
+Top 5 builders
+
+Quarterly builder performance
+
+#  Page 4 – Buyer & Project Insights
+
+Amenity score vs booking demand
+
+Buyer type analysis
+
+Project level performance
+
+#  Page 5 – Key Insights & Recommendations
+
+Key Insights
+
+3BHK units show the highest booking demand.
+
+Certain micro-markets dominate luxury housing sales.
+
+A few builders generate the majority of market revenue.
+
+Projects with higher amenity scores attract stronger demand.
+
+#  Author
+
 Sangeetha S
+Data Analytics Portfolio Project
